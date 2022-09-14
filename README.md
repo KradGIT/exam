@@ -13,7 +13,7 @@ for my exam
 
 ![Tag von Robert](https://user-images.githubusercontent.com/90238459/190147587-52581153-fbe5-4bac-a55b-a03691cc9932.jpg)
 
-| Left |  Center  | Right |
+| Название пр. |  магазин  | цена |
 |:-----|:--------:|------:|
 | хлеб   | перекресток | 40 руб |
 | сосиски   |  магнит  |   300 руб |
