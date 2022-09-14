@@ -13,3 +13,8 @@ for my exam
 
 ![Tag von Robert](https://user-images.githubusercontent.com/90238459/190147587-52581153-fbe5-4bac-a55b-a03691cc9932.jpg)
 
+| Left |  Center  | Right |
+|:-----|:--------:|------:|
+| L0   | **bold** | $1600 |
+| L1   |  `code`  |   $12 |
+| L2   | _italic_ |    $1 |
